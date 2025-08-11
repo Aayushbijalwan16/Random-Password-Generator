@@ -7,7 +7,7 @@ Whether you need a password for your next big project or just want to boost your
 
 <!-- Project Link -->
 
-🚀 **Try it now:** [Generate your passwords instantly!](https://.vercel.app/)
+🚀 **Try it now:** [Generate your passwords instantly!](https://random-password-generator-omega-seven.vercel.app/)
 
 <!-- Project Image -->
 
